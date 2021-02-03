@@ -18,7 +18,7 @@ We need to run each node in separate terminal windows with the commands:
 
 
 ## Network configuration 
-![Network configuration ](../blockchain_homework/Screenshots/terminal_POA_conf.png) 
+![Network configuration ](../Screenshots/terminal_POA_conf.png) 
 
 
 ##### Node 1
@@ -32,18 +32,18 @@ We need to run each node in separate terminal windows with the commands:
 ## MyCrypto 
 #### Making a transaction
 We need to enter node 2 public address and select amount to transafer
-![t1](../blockchain_homework/Screenshots/transaction_1.png) <br />
+![t1](../Screenshots/transaction_1.png) <br />
 
 We confirm the transfer
-![t2](../blockchain_homework/Screenshots/transaction_2.png) <br />
+![t2](../Screenshots/transaction_2.png) <br />
 
 We can see transfer is pending 
-![t3](../blockchain_homework/Screenshots/transaction_3.png) <br />
+![t3](../Screenshots/transaction_3.png) <br />
 
 Now transfer is completed
-![t4](../blockchain_homework/Screenshots/transaction_4.png) <br />
+![t4](../Screenshots/transaction_4.png) <br />
 
 We can notice that the balance has decreased 
-![t5](../blockchain_homework/Screenshots/transaction_5.png) <br />
+![t5](../Screenshots/transaction_5.png) <br />
 
 
